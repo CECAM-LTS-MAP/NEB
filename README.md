@@ -1,6 +1,6 @@
 The ci-NEB in ASE tutorial for the hands-on practice at the CECAM workshop on “Long time multi-scale simulations of activated events: from theory to practice”
 
-06.2024
+06.2024<br>
 King Chun Lai, Fritz-Haber-Institut der Max-Planck-Gesellschaft
 
 Dependency
